@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tutorialesvip.tutorialunittest.controller.IndependencyControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.47 s - in com.tutorialesvip.tutorialunittest.controller.IndependencyControllerTest
