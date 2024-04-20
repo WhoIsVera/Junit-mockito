@@ -1,5 +1,4 @@
 package com.tutorialesvip.tutorialunittest.models;
-
 import javax.persistence.*;
 
 @Entity
@@ -21,31 +20,30 @@ public class Country {
         this.countryId = countryId;
     }
 
-    public void setIsoCode(String isoCode) {
-        this.isoCode = isoCode;
-    }
+        public void setIsoCode(String isoCode) {
+            this.isoCode = isoCode;
+        }
 
-    public String getCountryName() {
-        return countryName;
-    }
+            public String getCountryName() {
+                return countryName;
+            }
 
-    public void setCountryName(String countryName) {
-        this.countryName = countryName;
-    }
+                public void setCountryName(String countryName) {
+                    this.countryName = countryName;
+                }
 
-    public String getCountryCapital() {
-        return countryCapital;
-    }
+                    public String getCountryCapital() {
+                        return countryCapital;
+                    }
 
-    public void setCountryCapital(String countryCapital) {
-        this.countryCapital = countryCapital;
-    }
+                        public void setCountryCapital(String countryCapital) {
+                            this.countryCapital = countryCapital;
+                        }
 
-    public String getCountryIdependenceDate() {
-        return countryIdependenceDate;
-    }
-
-    public void setCountryIdependenceDate(String countryIdependenceDate) {
-        this.countryIdependenceDate = countryIdependenceDate;
-    }
+                            public String getCountryIdependenceDate() {
+                                return countryIdependenceDate;
+                            }
+                                public void setCountryIdependenceDate(String countryIdependenceDate) {
+                                    this.countryIdependenceDate = countryIdependenceDate;
+                                }
 }
